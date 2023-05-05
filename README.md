@@ -3,7 +3,9 @@
 #Repositorio de estudio con la sintaxis de consola para trabajar de forma efectiva en  esta herramienta
 
 ####como crear las credenciales####
+
 #git config -- global user.name "nombre_de_usuario"
+
 #git config -- global user.email "email_de_usuarioa"
 
 #git init 
