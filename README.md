@@ -38,6 +38,10 @@
 
 #git rever + hash que queremos revertir
 
+#git clone
+
+#git remote
+
 #git stash
 
 #git stash pop
